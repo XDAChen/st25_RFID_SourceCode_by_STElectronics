@@ -1,0 +1,9 @@
+.\st25ru3993_jigen\uart_stream_driver.o: ..\..\Src\uart_stream_driver.c
+.\st25ru3993_jigen\uart_stream_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\st25ru3993_jigen\uart_stream_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\st25ru3993_jigen\uart_stream_driver.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\st25ru3993_jigen\uart_stream_driver.o: ../../../../../common/include/st_stream.h
+.\st25ru3993_jigen\uart_stream_driver.o: ../../Inc/stream_driver.h
+.\st25ru3993_jigen\uart_stream_driver.o: ../../Inc/uart_stream_driver.h
+.\st25ru3993_jigen\uart_stream_driver.o: ../../Inc/uart_driver.h
+.\st25ru3993_jigen\uart_stream_driver.o: ../../Inc/stream_dispatcher.h
